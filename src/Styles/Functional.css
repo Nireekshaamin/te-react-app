@@ -1,0 +1,23 @@
+h4{
+    color:rgb(245, 245, 248);
+   
+}
+h2{
+    text-align: center;
+}
+
+h5{
+    color:red;
+}
+
+h6{
+    color:violet;
+}
+
+.image{
+    float: left;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right: 50px;
+    border-radius: 15px;
+}

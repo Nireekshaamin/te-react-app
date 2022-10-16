@@ -1,0 +1,25 @@
+p{
+    color:rgb(0, 0, 0);
+   
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding-top:8px;
+    padding-bottom:8px;
+  }
+  td {
+    text-align: left;
+    
+  }
+  
+
+  
+  th {
+    background-color: rgb(59, 131, 148);
+    color: white;
+  }
